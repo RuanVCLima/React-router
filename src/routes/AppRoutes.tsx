@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router';
 import { Home } from '../pages/Home';
 import { Products } from '../pages/Products';
-import { NotFound } from '../pages/NotFoung';
+import { NotFound } from '../pages/NotFound';
 import { Details } from '../pages/Detail';
 import { Layout } from '../components/Layouts';
 
